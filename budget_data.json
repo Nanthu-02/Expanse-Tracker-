@@ -1,0 +1,19 @@
+{
+    "goals": {
+        "monthly_salary": 28000.0,
+        "saving_goal": 10000.0,
+        "max_spending_budget": 18000.0
+    },
+    "expenses": [
+        {
+            "date": "2025-11-09",
+            "category": "Food",
+            "amount": 150.0
+        },
+        {
+            "date": "2025-11-09",
+            "category": "Rent",
+            "amount": 500.0
+        }
+    ]
+}
